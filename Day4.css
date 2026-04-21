@@ -1,0 +1,14 @@
+.button {
+  background-color: #000300;
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+
+* {
+  background-color: #000300;
+}
